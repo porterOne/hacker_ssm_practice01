@@ -1,0 +1,6 @@
+# Project exclude paths
+/hacker_ssm_dao/target/
+/hacker_ssm_domain/target/
+/hacker_ssm_service/target/
+/hacker_ssm_utils/target/
+/hacker_ssm_web01/target/
